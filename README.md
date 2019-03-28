@@ -1,8 +1,8 @@
 # hello-world
 My first independent repository. 
 
-So much to learn. Branching. Pull Requests. Commits. Push. Forks Stars. 
+So much to learn. Branching. Pull Requests. Commits. Push. Forks. Stars. 
 
-<code>
+<code>Game on!</code>
   
-  Game on!
+  
